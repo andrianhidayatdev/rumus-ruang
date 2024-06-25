@@ -4,7 +4,7 @@ namespace Rumus;
 
 class Kubus
 {
-  function volume($sisi)
+  function volumeA($sisi)
   {
     $volume = pow($sisi, 3);
     return $volume;
