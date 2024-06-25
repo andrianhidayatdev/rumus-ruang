@@ -1,0 +1,17 @@
+{
+    "name": "andriandev/rumus-ruang",
+    "description": "Library Rumus Bangun Ruang",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Andrian Dev",
+            "email": "andriandev9@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Rumus\\":"Rumus/"    
+        }
+    },
+    "require": {}
+}
